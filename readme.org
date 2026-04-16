@@ -1,0 +1,5 @@
+* Atari Asteroids in SDL and C
+It was the final work for my Algorithms and Programming 1 subject.
+
+** About the code
+Check out [[https://github.com/mpdcfiuba/lunar_lander][the lunar lander game]] description. Same year, same course, old times, first projects.
